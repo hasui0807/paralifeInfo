@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "2026-07-01",
+      "publishedAt": "2026-07-01",
+      "category": "test",
+      "priority": 100,
+      "startAt": "2026-07-01T00:00:00+00:00",
+      "endAt": "",
+      "minAppVersion": "0.0",
+      "title": {
+        "ja": "配信テスト",
+        "zh-Hans": "配信テスト（中国語テスト）"
+      },
+      "summary": {
+        "ja": "テストメッセージじゃぱん",
+        "zh-Hans": "テストメッセージちゃいな。"
+      },
+      "url": "ないよ！"
+    }
+  ]
+}
