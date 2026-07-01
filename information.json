@@ -1,27 +1,19 @@
 {
-  "version": 1,
   "items": [
     {
-      "id": "2026-07-01",
       "publishedAt": "2026-07-01",
-      "category": "test",
-      "priority": 100,
-      "startAt": "2026-07-01T00:00:00+00:00",
-      "endAt": "",
-      "minAppVersion": "0.0",
       "title": {
-        "ja": "配信テスト",
-        "zh-Hans": "配信テスト（中国語テスト）"
+        "ja": "見出し",
+        "zh-Hans": "标题"
       },
       "status": {
-        "ja": "配信に関して",
-        "zh-Hans": "配信テスト（中国語テス）"
+        "ja": "新着",
+        "zh-Hans": "最新"
       },
       "summary": {
-        "ja": "テストメッセージじゃぱん",
-        "zh-Hans": "テストメッセージちゃいな。"
-      },
-      "url": "URL:ないよ！"
+        "ja": "本文",
+        "zh-Hans": "正文"
+      }
     }
   ]
 }
